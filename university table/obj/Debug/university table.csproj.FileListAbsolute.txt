@@ -1,0 +1,17 @@
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\university table.exe.config
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\university table.exe
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\university table.pdb
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\EntityFramework.dll
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\EntityFramework.xml
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mascia\Downloads\university table\university table\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mascia\Downloads\university table\university table\obj\Debug\university table.csproj.AssemblyReference.cache
+C:\Users\Mascia\Downloads\university table\university table\obj\Debug\university table.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mascia\Downloads\university table\university table\obj\Debug\university table.csproj.CoreCompileInputs.cache
+C:\Users\Mascia\Downloads\university table\university table\obj\Debug\university table.csproj.CopyComplete
+C:\Users\Mascia\Downloads\university table\university table\obj\Debug\university table.exe
+C:\Users\Mascia\Downloads\university table\university table\obj\Debug\university table.pdb
